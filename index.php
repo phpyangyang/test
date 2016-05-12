@@ -11,4 +11,5 @@ phpinfo();
 //将本地仓库提交到github的帐号里
 //git push -u origin master
 
-//同步到本地 git fetch
+//同步到本地 
+//git pull origin master
